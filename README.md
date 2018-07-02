@@ -1,3 +1,5 @@
+MAE0699 - EP3 - Luciano Antonio Siqueira - NUSP 8535467
+
 Estimativas de máximo para uma série com coeficientes aleatórios de distribuições de máxima entropia.
 
 Compilar o programa que encontra os parâmetros lambda e k:
